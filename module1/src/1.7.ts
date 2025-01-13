@@ -1,7 +1,6 @@
 {
   // spread operator
   // rest operator
-  // destructuring
 
   // spread operator
   const user1: string[] = ["a", "b", "c", "d", "e"];
