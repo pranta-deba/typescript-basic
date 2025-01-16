@@ -1,5 +1,5 @@
 {
-    // Class and object
+    //  
 
     class Animal {
         constructor(public name:string, public sound: string){
